@@ -21,6 +21,11 @@ public class Main {
         double divisionResult = calculator.division(10, 2);
         System.out.println("División: " + divisionResult);
 
+        System.out.println("INCLUSION DE LA POTENCIACION");
+        //Inclusion de la Potenciacion
+        double potentiationResult = calculator.potenciacion(10, 2);
+        System.out.println("Potenciacion: " + potentiationResult);
+
     }
 }
 

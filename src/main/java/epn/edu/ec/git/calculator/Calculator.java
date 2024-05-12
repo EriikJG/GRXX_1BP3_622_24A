@@ -19,6 +19,10 @@ public class Calculator {
     public double multiplication(int a, int b) {
         return a * b;
     }
+    public double potenciacion(int a, int b) {
+        return Math.pow(a, b);
+    }
+
 
     public void timeout(int time) {
         try {
