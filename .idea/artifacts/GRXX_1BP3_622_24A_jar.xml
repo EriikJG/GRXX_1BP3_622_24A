@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GRXX_1BP3_622_24A:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GRXX_1BP3_622_24A_jar</output-path>
+    <root id="archive" name="GRXX_1BP3_622_24A.jar">
+      <element id="module-output" name="GRXX_1BP3_622_24A" />
+    </root>
+  </artifact>
+</component>
